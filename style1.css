@@ -9,6 +9,7 @@ table, tr, td, th {
     border-collapse: collapse;
     padding: 8px;
     text-align: center;
+    color: white ;
 }
 
 table {
@@ -16,6 +17,8 @@ table {
     background-repeat: no-repeat;
     justify-content: center;
     zoom: 1.2;
+    backgroud-color: black ;
+
 
 
 }
